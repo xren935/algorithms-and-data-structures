@@ -1,6 +1,8 @@
 # Algorithms and Data Structures (COMP251 at McGill)
 This repository contains my solutions to the homework assignments of COMP251(Fall 2019). \
 I enjoyed the course and learned a lot. Hope you like it too!
+**ALL questions and starter code are provided by the awesome course instructors, so all credits go to them!**
+*A special thanks to Virna Xi for helping me survive the Montréal winter by discussing the proofs with me*
 
 ## Assignment 1 
 Coding: Hash Table (Chaining/Open-addressing) \
