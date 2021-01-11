@@ -1,4 +1,4 @@
-# Algorithms and Data Structures (COMP251 at McGill)
+# Algorithms and Data Structures (COMP251 at McGill University)
 This repository contains my solutions to the homework assignments of COMP251(Fall 2019). \
 I enjoyed the course and learned a lot. Hope you like it too! \
 **ALL questions and starter code are provided by the awesome course instructors, so all credits go to them!** \
